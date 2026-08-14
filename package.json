@@ -1,0 +1,10 @@
+{
+  "name": "solinda-cheab-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README assets: terminal info card + animated jet heatmap",
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}
