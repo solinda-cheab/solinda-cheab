@@ -10,7 +10,7 @@
 <circle cx="60" cy="17" r="6" fill="#27c93f"/>
 <text x="400.0" y="21" text-anchor="middle" font-size="12" fill="#24292f" opacity="0.85">solinda-cheab / README.md</text>
 
-<text x="24" y="46" font-size="12.5" fill="#1a7f37">$ ./whoami.sh --live<tspan fill="#1a7f37">_
+<text x="24" y="46" font-size="12.5" fill="#1a7f37">$ CHEAB SOLINDA<tspan fill="#1a7f37">_
   <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
 </tspan></text>
 
@@ -7688,14 +7688,14 @@
 <tspan x="348" y="50" fill="#6f4bff" font-weight="bold">TERMINAL_INFO</tspan>
 <tspan x="348" y="65.5" fill="#d0d7de">--------------------------------</tspan>
 <tspan x="348" y="81.0"><tspan fill="#8b949e">Subject</tspan><tspan fill="#d0d7de">..........</tspan><tspan fill="#24292f"> solinda-cheab</tspan></tspan>
-<tspan x="348" y="96.5"><tspan fill="#8b949e">Role</tspan><tspan fill="#d0d7de">.............</tspan><tspan fill="#24292f"> CS &amp; Eng Undergrad · Full-Stack Dev</tspan></tspan>
+<tspan x="348" y="96.5"><tspan fill="#8b949e">Role</tspan><tspan fill="#d0d7de">.............</tspan><tspan fill="#24292f"> CS &amp; Eng Undergrad · Front-End Dev</tspan></tspan>
 <tspan x="348" y="112.0"><tspan fill="#8b949e">Origin</tspan><tspan fill="#d0d7de">...........</tspan><tspan fill="#24292f"> Phnom Penh, Cambodia</tspan></tspan>
 <tspan x="348" y="127.5"><tspan fill="#8b949e">Education</tspan><tspan fill="#d0d7de">........</tspan><tspan fill="#24292f"> Royal University of Phnom Penh</tspan></tspan>
 <tspan x="348" y="143.0"><tspan fill="#8b949e">Status</tspan><tspan fill="#d0d7de">...........</tspan><tspan fill="#24292f"> building · learning · shipping</tspan></tspan>
 <tspan x="348" y="158.5"><tspan fill="#8b949e">ToolChain</tspan><tspan fill="#d0d7de">........</tspan><tspan fill="#24292f"> vite, git, tailwind, vscode</tspan></tspan>
-<tspan x="348" y="181.75"><tspan fill="#8b949e">Core.Lang</tspan><tspan fill="#d0d7de">........</tspan><tspan fill="#24292f"> javascript, typescript, php, c++</tspan></tspan>
+<tspan x="348" y="181.75"><tspan fill="#8b949e">Core.Lang</tspan><tspan fill="#d0d7de">........</tspan><tspan fill="#24292f"> javascript, typescript, php</tspan></tspan>
 <tspan x="348" y="197.25"><tspan fill="#8b949e">Core.Frontend</tspan><tspan fill="#d0d7de">....</tspan><tspan fill="#24292f"> react, vite, tailwind css</tspan></tspan>
-<tspan x="348" y="212.75"><tspan fill="#8b949e">Core.Backend</tspan><tspan fill="#d0d7de">.....</tspan><tspan fill="#24292f"> node.js, php</tspan></tspan>
+<tspan x="348" y="212.75"><tspan fill="#8b949e">Core.Backend</tspan><tspan fill="#d0d7de">.....</tspan><tspan fill="#24292f"> php</tspan></tspan>
 <tspan x="348" y="228.25"><tspan fill="#8b949e">Core.Database</tspan><tspan fill="#d0d7de">....</tspan><tspan fill="#24292f"> mysql</tspan></tspan>
 <tspan x="348" y="243.75"><tspan fill="#8b949e">Core.Infra</tspan><tspan fill="#d0d7de">.......</tspan><tspan fill="#24292f"> git, github actions</tspan></tspan>
 <tspan x="348" y="267.0" fill="#8b949e" font-weight="bold">- Contact ----------------------</tspan>
